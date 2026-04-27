@@ -7,3 +7,6 @@ For quick visual feedback, ATN and REN each get their own LED. The board needs a
 The GitHub repo includes everything you need to reproduce it: schematics, PCB files, and 3D‑printable STLs for a simple enclosure. There are caps to cover the exposed GPIB-connector-pins, to avoid accidental short circuits.
 
 A handy little tool for anyone debugging, reverse‑engineering, or just curious about what their GPIB hardware is really saying.
+
+This project on Hackaday.io: https://hackaday.io/project/205600-gpib-eavesdropper
+More about UsbGpib v2 and GPIBee: https://github.com/xyphro/UsbGpib
